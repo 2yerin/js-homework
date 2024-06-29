@@ -10,10 +10,10 @@
  </br>
 
 ##### mission1. 네이버 로그인 페이지 구현
-https://github.com/2yerin/js-homework/blob/main/mission01/naver_login/README.md
+https://github.com/2yerin/js-homework/tree/main/mission01/naver_login
 
 </br>
 
 ##### mission2. poster 구현
- https://github.com/2yerin/js-homework/blob/main/mission02/poster/README.md
+https://github.com/2yerin/js-homework/tree/main/mission02/poster
 
